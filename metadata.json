@@ -1,0 +1,6 @@
+{
+  "name": "ETS BESRG COMPANY — Équipements Sportifs, Marketing Digital & Services • Yaoundé, Cameroun",
+  "description": "Site officiel d'ETS BESRG COMPANY à Yaoundé, Cameroun (RCCM : RC/YAO/2024/A/843). Spécialiste en équipements et fournitures sportifs, marketing digital, communication, prestations de services et commerce général.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
